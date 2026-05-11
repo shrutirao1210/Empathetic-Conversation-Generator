@@ -424,6 +424,22 @@ Bot: That sounds really annoying. Have you talked to them about it yet?
 
 ---
 
+## Model Checkpoints
+
+The trained model checkpoints for this project are available on Hugging Face:
+
+🔗 https://huggingface.co/shrutimrao/empathetic-chatbot
+
+### Available Files
+- `best_decoupled_model.pt` — Main decoupled empathetic dialogue generation model
+- `best_roberta_head.pt` — Emotion classification head based on RoBERTa
+
+These checkpoints can be used for:
+- Inference
+- Fine-tuning
+- Emotion-aware response generation
+- Reproducing experimental results
+
 # Future Improvements
 
 Potential future enhancements include:
