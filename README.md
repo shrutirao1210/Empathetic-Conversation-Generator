@@ -428,7 +428,7 @@ Bot: That sounds really annoying. Have you talked to them about it yet?
 
 The trained model checkpoints for this project are available on Hugging Face:
 
-🔗 https://huggingface.co/shrutimrao/empathetic-chatbot
+🔗 [Hugging Face Model Repository](https://huggingface.co/shrutimrao/empathetic-chatbot/tree/main)
 
 ### Available Files
 - `best_decoupled_model.pt` — Main decoupled empathetic dialogue generation model
